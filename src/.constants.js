@@ -1,6 +1,6 @@
 module.exports = Object.freeze({
   TOKEN: '1088945005:AAG2RwZOVNVpIHJA2lNOo1hv9-MkDObkPjs',
-  ARIA_SECRET: 'aria2_secret',
+  ARIA_SECRET: '786786',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: ['yts', 'YTS', 'cruzing.xyz', 'eztv.ag', 'YIFY'], // Prevent downloading from URLs containing these substrings
